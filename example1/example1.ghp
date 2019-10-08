@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><_c buildID="I20190919_0116" certificateAuthority="KEY_1024_BITS" comments="Project created on 8 October 2019" creationVersion="10.0.2" domain="default" extDocPrefix="" name="example1" owner="sachas.subdar" rulesCacheUri="%%PROJECT/ROOT%%Rules" uuid="0000016d-aafe-8c1e-0005-cca1ccb3d324">
+  <rootEnvironmentConfig isOverridingSecretsNamespace="false" overridingSecretsNamespace=""/>
+   <dateTimeConfig date="yyyy/MM/dd" dateTime="dd-MMM-yyyy HH:mm:ss" time="HH:mm:ss.SSS"/>
+   <serverSettings ghRepositoryURL="https://localhost:5443/RTCP" trustSource="INBUILT_CA" trustStorePath="">
+      <dbConnectionParameters maxConnections="5" poolName="DefaultPoolName">
+         <connectionParams CICSEnv="false" MVSEnv="false" ZOSEnv="false" driverClass="" password="#com.ghc.1!8f63" recordFilters="" schema="" url="" useSsl="false" user="">
+            <stubSettings maxProcCallCount="10000" maxResultSetRowCount="10000" maxRowCount="10000" password="#com.ghc.1!d29e" procedureLearningBehaviour="1" schema="" url="" useIntegratedDB="true" user=""/>
+            <storedProcedureFilter catalogFilterEnabled="false" catalogFilterPattern="" procedureFilterEnabled="false" procedureFilterPattern="" schemaFilterEnabled="true" schemaFilterPattern="" storedProceduresRetrievalEnabled="false" useConnectionUsername="true"/>
+            <timestampFormatting timestampFormatZero="false" timestampFormattingEnabled="false" timestampPrecision="9"/>
+         </connectionParams>
+      </dbConnectionParameters>
+      <automationServer enabled="false" hostname="" port="443" projectId="-1" projectName="--No Project Selected--" publishResults="false" trustSource="TRUST_ALL" trustStorePassword="#com.ghc.1!12da" trustStorePath=""/>
+   </serverSettings>
+   <permissionsSettings autoLogin="true" host="AP-PNP-DC02" permFactId="ldap.permissions.factory.none" port="389" pswd="/U0+e/kNUCwp78Z0S9/vzxMv3ZN8XJvCac1HXlGhzoI=$3VzLSQtr950haD14WjChSWRApIzKUibFMs0XEBDWcVQ="/>
+</_c>
