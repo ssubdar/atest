@@ -4,7 +4,7 @@
       <testTree>
          <editableResource id="-4c5ab45d:16daafe8cf7:-7e73" selfDescribing="The log actions enables you to output messages to console and a logging file." type="logging_action" version="1.0">
             <loggingConfiguration debug="false" writeStubEventsToDB="false"/>
-            <resourceConfig append="true" description="" flush="true" loggingMessage="a test" name="a test" outputFile="" role="0"/>
+            <resourceConfig append="true" description="" flush="true" loggingMessage="a modified test" name="a test" outputFile="" role="0"/>
          </editableResource>
       </testTree>
       <tagDataStore inputMode="NONE" outputMode="NONE"/>
